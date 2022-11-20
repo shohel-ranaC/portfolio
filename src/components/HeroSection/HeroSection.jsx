@@ -13,9 +13,9 @@ const HeroSection = () => {
             backDelay: 1500,
             showCursor: true,
             strings:[
-                'Muhammad Shohel Rana',
+                'Shohel Rana',
                 'a Web Developer',
-                'Passionat Coder',
+                'a Passionat Coder',
             ],
         })
     }, []);

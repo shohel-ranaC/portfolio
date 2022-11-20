@@ -20,3 +20,10 @@ td{
 tr:nth-child(even){
     background: #102048;
 }
+
+@media only screen and (max-width: 992px) {
+    th,td{
+        font-size:.7rem;
+        padding: .8rem;
+    }
+}
